@@ -80,14 +80,14 @@
   line-height:normal;
 }
 ._二级标题1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -155,7 +155,7 @@
   text-align:left;
 }
 .box_11 {
-  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
@@ -182,14 +182,14 @@
   text-align:left;
 }
 .heading_1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -210,5 +210,7 @@
   color:#666666;
 }
 .flow_shape {
+}
+._形状1 {
 }
 textarea, select, input, button { outline: none; }
